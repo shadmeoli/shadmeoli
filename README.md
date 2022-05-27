@@ -1,4 +1,4 @@
-[![Shadrack Meoli](./assets/GitHubHeader.png)](https://www.forex.academy/how-exactly-does-blockchain-work/)
+# Shadrack Meoli
 
 <a href="https://github.com/shadmeoli">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=shadmeoli&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Shadrack's github stats" />
