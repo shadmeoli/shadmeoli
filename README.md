@@ -48,5 +48,6 @@
 ![](https://img.shields.io/badge/Blockchain-Dev-informational?style=flat&&color=4AB197)
 ![](https://img.shields.io/badge/Automation-informational?style=flat&color=4AB197)
 ![](https://img.shields.io/badge/Software-Architecture-informational?style=flat&color=4AB197)
+![](https://img.shields.io/badge/Analytic-informational?style=flat&color=4AB197)
 ...
 </details>
