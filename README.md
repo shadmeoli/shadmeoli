@@ -39,7 +39,6 @@
 <br>
 
 
-<details>
 <summary>More Skills</summary>
 
 [](https://img.shields.io/badge/Stats-Analytics-informational?style=flat3&logoColor=white&color=4AB197)
@@ -50,4 +49,3 @@
 ![](https://img.shields.io/badge/Software-Architecture-informational?style=flat&color=4AB197)
 ![](https://img.shields.io/badge/Analytic-informational?style=flat&color=4AB197)
 ...
-</details>
