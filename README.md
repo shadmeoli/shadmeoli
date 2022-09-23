@@ -30,10 +30,9 @@
 
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/-vue.js-informational?style=flat&logo=react&logoColor=white&color=4AB197) 
-![](https://img.shields.io/badge/php-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/R-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/-Haskell-informational?style=flat&logo=react&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/R-informational?style=flat&logo=r&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/-SQL-informational?style=flat&logo=sql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/-Haskell-informational?style=flat&logo=haskell&logoColor=white&color=4AB197)
 
 <br>
 <br>
