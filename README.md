@@ -1,4 +1,4 @@
-# 💫Shadrack Meoli
+# Shadrack Meoli
 - Automation and quality assurance engineer
 - Machine learning engineer
 - Full stack developer(python, nodejs, typescript, vue, nuxt)
