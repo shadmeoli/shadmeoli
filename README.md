@@ -11,7 +11,7 @@
 
 
 # GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=shadmeoli&theme=dracular&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shadmeoli&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shadmeoli&theme=radical&hide_border=true)<br/>
 
 
