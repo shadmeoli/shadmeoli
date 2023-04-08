@@ -18,7 +18,7 @@
 
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 🏆GitHub Trophies
+## GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=shadmeoli&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
@@ -29,5 +29,5 @@
 [![](https://visitcount.itsvg.in/api?id=shadmeoli&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
-## 💰You can help me by Donating
+## You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Shadrack_Meoli) 
