@@ -12,7 +12,7 @@
 
 # GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=shadmeoli&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shadmeoli&theme=radical&hide_border=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shadmeoli&theme=radical&hide_border=false)<br/>
 
 
 [![](https://visitcount.itsvg.in/api?id=shadmeoli&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
