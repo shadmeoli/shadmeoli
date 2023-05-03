@@ -19,7 +19,7 @@
   <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## GitHub Trophies
-![](https://github-trophies.vercel.app/?username=shadmeoli&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=shadmeoli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
