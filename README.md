@@ -19,9 +19,6 @@ Machine learning Enthusiast<br>Data scientist<br>Full stack developer <br>Chroni
 ## Latest Tweet
 [![](https://gtce.itsvg.in/api?username=CodesShad)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shadmeoli&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 
