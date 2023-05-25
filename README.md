@@ -12,15 +12,8 @@ Machine learning Enthusiast<br>Data scientist<br>Full stack developer <br>Chroni
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shadmeoli&theme=radical&hide_border=true)<br/>
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shadmeoli&theme=nord&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shadmeoli&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-## Latest Tweet
-[![](https://gtce.itsvg.in/api?username=CodesShad)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 😂 Random Dev Meme
+### Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=shadmeoli&icon=2&color=9)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
