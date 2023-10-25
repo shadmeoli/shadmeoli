@@ -1,6 +1,17 @@
-# About Me:
-Machine learning Enthusiast<br>Data scientist<br>Full stack developer <br>Chronic python developer with sprinkles of typescript vue
 
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shadrack
+================================================================================================================================
+
+Full stack developer
+--------------------
+
+I currently working as a full stack developer looking to leverage my skills towards the world of data
+
+* 🌍  I'm based in Nairobi, Kenya
+* 🚀  I'm currently working on [Go + gRPC + Docker Mircoservice](http://ithub.com/shadmeoli/go_gRPC_docker)
+* 🧠  I'm learning Go and apache Kafka
+* 🤝  I'm open to collaborating on the Go project
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_s.ha.d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shadrack-codes254/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shadcodes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CodesShad) 
@@ -13,6 +24,3 @@ Machine learning Enthusiast<br>Data scientist<br>Full stack developer <br>Chroni
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shadmeoli&theme=dark&no-frame=true&no-bg=false&margin-w=4)
-
-### Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
