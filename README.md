@@ -9,7 +9,7 @@ Full stack developer
 I currently working as a full stack developer looking to leverage my skills towards the world of data
 
 * 🌍  I'm based in Nairobi, Kenya
-* 🚀  I'm currently working on [Go + gRPC + Docker Mircoservice](http://github.com/shadmeoli/go_gRPC_dockerr)
+* 🚀  I'm currently working on [Go + gRPC + Docker Mircoservice](http://github.com/shadmeoli/go_gRPC_docker)
 * 🧠  I'm learning Go and apache Kafka
 * 🤝  I'm open to collaborating on the Go project
 
