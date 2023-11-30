@@ -1,9 +1,9 @@
 # Hello, Fellow Developers! 👋
 
-I'm Shadrack Meoli, a passionate Full Stack Developer with 4 years of hands-on experience. My journey in the tech world has been a thrilling ride, and here are some key facets of my coding expedition:
+I'm Shadrack Meoli, a passionate Full Stack Developer with 3 years of hands-on experience. My journey in the tech world has been a thrilling ride, and here are some key facets of my coding expedition:
 
 - **Tech Arsenal:**
-  - Python (4 years)
+  - Python (3 years)
   - TypeScript/JavaScript (3 years)
   - SQL (3 year)
   - Go (2 years)
