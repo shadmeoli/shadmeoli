@@ -47,6 +47,9 @@ Let's connect and architect extraordinary solutions together! 🚀
 ## ⚔️ **Kata Honour:**
 ![Code Wars](https://www.codewars.com/users/shadmeoli/badges/large)
 
+## My 2023 wrapped up
+![github-wrapped](https://github.com/shadmeoli/shadmeoli/assets/85517013/498b2efb-e5e9-49aa-96d2-55e60e78bf9e)
+
 ## 🌐 **Connect With Me:**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_s.ha.d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shadrack-codes254/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shadcodes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CodesShad) 
 
