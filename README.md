@@ -47,6 +47,7 @@ Let's connect and architect extraordinary solutions together! 🚀
 ## ⚔️ **Kata Honour:**
 ![Code Wars](https://www.codewars.com/users/shadmeoli/badges/large)
 
+
 ## My 2023 wrapped up
 ![github-wrapped](https://github.com/shadmeoli/shadmeoli/assets/85517013/498b2efb-e5e9-49aa-96d2-55e60e78bf9e)
 
