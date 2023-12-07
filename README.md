@@ -34,12 +34,14 @@ Let's connect and architect extraordinary solutions together! 🚀
 ![Docker - 2yrs](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![gRPC - 1yrs](https://img.shields.io/badge/gRPC-%23FF6F61.svg?logo=grpc&logoColor=white)
 
-## 📚 **Currently Reading:**
-- "The Go Programming Language" - Donovan & Kernighan
+###
 
-## 🚀 **On The Horizon:**
-- Exploring microservices architectures
-- Diving into containerization
+<div align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=shadmeoli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadmeoli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## 🏆 **GitHub Trophies:**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shadmeoli&theme=dark&no-frame=true&no-bg=false&margin-w=4)
