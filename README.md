@@ -6,7 +6,7 @@ I'm Shadrack Meoli, a passionate Full Stack Developer with 3 years of hands-on e
   - Python (3 years)
   - TypeScript/JavaScript (3 years)
   - SQL (3 year)
-  - Go (2 years)
+  - Go (> 1 years)
   - R (2 years)
 
 - **Current Playground:**
@@ -38,7 +38,6 @@ Let's connect and architect extraordinary solutions together! 🚀
 
 <div align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=shadmeoli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shadmeoli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
