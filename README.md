@@ -10,6 +10,7 @@ I'm Shadrack Meoli, a passionate Full Stack Developer with 3 years of hands-on e
   - R (2 years)
 
 - **Current Playground:**
+  - Astro 
   - Crafting with React Native
   - Navigating the realms of Go and gRPC
   - Delving into the containerized world of Docker
@@ -21,6 +22,7 @@ I'm Shadrack Meoli, a passionate Full Stack Developer with 3 years of hands-on e
 
 - **Craftsmanship:**
   - Full Stack Development
+  - Machine learning
 
 Feel free to embark on a code journey through my repositories, where each project is a testament to my dedication. Have questions or just want to geek out? Open an issue on [my profile](https://github.com/shadmeoli/shadmeoli/issues).
 
