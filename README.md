@@ -6,7 +6,7 @@ I'm Shadrack Meoli, a passionate Full Stack Developer with 3 years of hands-on e
   - Python (3 years)
   - TypeScript/JavaScript (3 years)
   - SQL (3 year)
-  - Go ( < 1 year )
+  - Go ( > 1 year )
   - R (2 years)
 
 - **Current Playground:**
