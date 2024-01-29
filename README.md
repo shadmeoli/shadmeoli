@@ -1,12 +1,12 @@
-# Hello, Fellow Developers! 👋
+![shad](https://github.com/shadmeoli/shadmeoli/assets/85517013/2b73a117-a24e-4f9f-9223-465ec122cfbc)
 
-I'm Shadrack Meoli, a passionate Full Stack Developer with 3 years of hands-on experience. My journey in the tech world has been a thrilling ride, and here are some key facets of my coding expedition:
+I'm a passionate Full Stack Developer with 4 years of hands-on experience. My journey in the tech world has been a thrilling ride, and here are some key facets of my coding expedition:
 
 - **Tech Arsenal:**
-  - Python (3 years)
+  - Python (4 years)
   - TypeScript/JavaScript (3 years)
   - SQL (3 year)
-  - Go ( > 1 year )
+  - Go ( 1 year )
   - R (2 years)
 
 - **Current Playground:**
@@ -16,7 +16,7 @@ I'm Shadrack Meoli, a passionate Full Stack Developer with 3 years of hands-on e
   - Delving into the containerized world of Docker
 
 - 🌱 **Currently Absorbed In:**
-  - Mastering Go
+  - Mastering Go and system design
   - Harnessing the power of gRPC
   - Dockerizing everything!
 
