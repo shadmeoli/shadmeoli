@@ -38,14 +38,12 @@ Let's connect and architect extraordinary solutions together! 🚀
 
 ###
 
-<div align="start">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadmeoli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=shadmeoli&theme=material&hide_border=true)](https://git.io/streak-stats)
 ###
 
 ## 🏆 **GitHub Trophies:**
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shadmeoli&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+
 
 ## ⚔️ **Kata Honour:**
 ![Code Wars](https://www.codewars.com/users/shadmeoli/badges/large)
