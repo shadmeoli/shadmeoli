@@ -1,4 +1,6 @@
-![shad](https://github.com/shadmeoli/shadmeoli/assets/85517013/2b73a117-a24e-4f9f-9223-465ec122cfbc)
+<!-- ![shad]([https://github.com/shadmeoli/shadmeoli/assets/85517013/2b73a117-a24e-4f9f-9223-465ec122cfbc]) -->
+![shad]([https://github.com/shadmeoli/shadmeoli/assets/85517013/908828aa-dfd0-44a3-98a4-fa1b0858e4ed])
+
 
 I'm a passionate Full Stack Developer with 4 years of hands-on experience. My journey in the tech world has been a thrilling ride, and here are some key facets of my coding expedition:
 
