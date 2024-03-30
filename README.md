@@ -1,48 +1,33 @@
-
 ![shadmeoli](https://github.com/shadmeoli/shadmeoli/assets/85517013/70112b6e-6b24-4507-964c-5d7dfb034101)
 
+# Welcome to my Code Oasis!
 
 I'm a passionate Full Stack Developer with 4 years of hands-on experience. My journey in the tech world has been a thrilling ride, and here are some key facets of my coding expedition:
 
-- **Tech Arsenal:**
-  - Python (4 years)
-  - TypeScript/JavaScript (3 years)
-  - SQL (3 year)
-  - Go ( 1 year )
-  - R (2 years)
+## Tech Mastery
 
-- **Current Playground:**
-  - Astro 
-  - Crafting with React Native
-  - Navigating the realms of Go and gRPC
-  - Delving into the containerized world of Docker
+| Technology            | Experience |
+|-----------------------|------------|
+| Python                | <span style="color:jgray;">4 years</span>    |
+| TypeScript/JavaScript| <span style="color:black;">3 years</span>    |
+| SQL                   | <span style="color:jgray;">3 years</span>    |
+| Go                    | <span style="color:black;">1 year</span>     |
+| R                     | <span style="color:jgray;">2 years</span>    |
 
-- **Currently Absorbed In:**
-  - Mastering Go and system design
-  - Harnessing the power of gRPC
-  - Dockerizing everything!
+## Current Canvas
 
-- **Craftsmanship:**
-  - Full Stack Development
-  - Machine learning
+| Technology            | Description                                           |
+|-----------------------|-------------------------------------------------------|
+| Astro                 | <span style="color:black;">Crafting cosmic experiences with Astro</span>                |
+| React Native          | <span style="color:jgray;">Mastering the art of fluidity and responsiveness</span>     |
+| Go & gRPC             | <span style="color:black;">Harnessing the lightning bolts of Go and gRPC</span>        |
+| Docker                | <span style="color:jgray;">Containerizing creations for portability and scale</span>   |
 
-Feel free to embark on a code journey through my repositories, where each project is a testament to my dedication. Have questions or just want to geek out? Open an issue on [my profile](https://github.com/shadmeoli/shadmeoli/issues).
+## Ongoing Adventures
 
-Let's connect and architect extraordinary solutions together! 🚀
+- Mastering the arcane arts of Go and refining my prowess in system design.
+- Unleashing the full potential of gRPC to forge seamless connections in distributed architectures.
+- Dockerizing everything in sight, from humble prototypes to grandiose monoliths!
 
-## **Toolbox:**
-![Python - 4ys](https://img.shields.io/badge/Python-%2314354C.svg?logo=python&logoColor=white)
-![typescript - 2yrs](https://img.shields.io/badge/typescript-%23F7DF1E.svg?logo=typescript&logoColor=black)
-![Go - 1yr](https://img.shields.io/badge/Go-%2300ADD8.svg?logo=go&logoColor=white)
-![React Native - 1yrs](https://img.shields.io/badge/React_Native-%2320232A.svg?logo=react&logoColor=%2361DAFB)
-![Docker - 2yrs](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
-![gRPC - 1yrs](https://img.shields.io/badge/gRPC-%23FF6F61.svg?logo=grpc&logoColor=white)
-
-## ⚔️ **Kata Honour:**
+## **Kata Honour:**
 ![Code Wars](https://www.codewars.com/users/shadmeoli/badges/large)
-
-
-## **Connect With Me:**
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_s.ha.d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shadrack-codes254/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shadcodes) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/CodesShad) 
-
-Let's build the future, one line of code at a time! 🌐🚀
