@@ -27,7 +27,7 @@ I'm a passionate Full Stack Developer with 4 years of hands-on experience. My jo
 
 - Mastering the arcane arts of Go and refining my prowess in system design.
 - Unleashing the full potential of gRPC to forge seamless connections in distributed architectures.
-- Dockerizing everything in sight, from humble prototypes to grandiose monoliths!
+- Exploring the world of containerization
 
 ## **Kata Honour:**
 ![Code Wars](https://www.codewars.com/users/shadmeoli/badges/large)
