@@ -19,7 +19,7 @@ I'm a passionate Full Stack Developer with 4 years of hands-on experience. My jo
 | Technology            | Description                                           |
 |-----------------------|-------------------------------------------------------|
 | Astro                 | <span style="color:black;">Crafting cosmic experiences with Astro</span>                |
-| React Native          | <span style="color:jgray;">Mastering the art of fluidity and responsiveness</span>     |
+| React                 | <span style="color:jgray;">Mastering the art of fluidity and responsiveness</span>     |
 | Go & gRPC             | <span style="color:black;">Harnessing the lightning bolts of Go and gRPC</span>        |
 | Docker                | <span style="color:jgray;">Containerizing creations for portability and scale</span>   |
 
