@@ -10,7 +10,7 @@ I'm a passionate Full Stack Developer with 4 years of hands-on experience. My jo
 |-----------------------|------------|
 | Python                | <span style="color:jgray;">4 years</span>    |
 | TypeScript/JavaScript| <span style="color:black;">3 years</span>    |
-| SQL                   | <span style="color:jgray;">3 years</span>    |
+| SQL                   | <span style="color:jgray;">4 years</span>    |
 | Go                    | <span style="color:black;">1 year</span>     |
 | R                     | <span style="color:jgray;">2 years</span>    |
 
