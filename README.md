@@ -4,6 +4,8 @@
 
 I'm a passionate Full Stack Developer with 4 years of hands-on experience. My journey in the tech world has been a thrilling ride, and here are some key facets of my coding expedition:
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=shadmeoli&theme=vue-dark&hide_border=true&border_radius=15&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ## Tech Mastery
 
 | Technology            | Experience |
