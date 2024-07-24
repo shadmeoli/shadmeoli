@@ -1,32 +1,45 @@
 ![shadmeoli](https://github.com/shadmeoli/shadmeoli/assets/85517013/70112b6e-6b24-4507-964c-5d7dfb034101)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shadmeoli&show_icons=true&theme=dark)
 
-# Welcome to my Code Oasis!
+---
 
-I'm a passionate Full Stack Developer with 4 years of hands-on experience. My journey in the tech world has been a thrilling ride, and here are some key facets of my coding expedition:
+# Welcome to My GitHub Profile
 
-## Tech Mastery
+I am a Full Stack Developer with 4 years of experience, currently deepening my expertise in frontend development.
 
-| Technology            | Experience |
-|-----------------------|------------|
-| Python                | <span style="color:jgray;">4 years</span>    |
-| TypeScript/JavaScript| <span style="color:black;">3 years</span>    |
-| SQL                   | <span style="color:jgray;">4 years</span>    |
-| Go                    | <span style="color:black;">1 year</span>     |
-| R                     | <span style="color:jgray;">2 years</span>    |
+## Technical Skills
 
-## Current Canvas
+- **Python:** 4 years of experience
+- **TypeScript/JavaScript:** 4 years of experience
+- **SQL:** 4 years of experience
+- **Go:** 1 year of experience
+- **R:** 2 years of experience
 
-| Technology            | Description                                           |
-|-----------------------|-------------------------------------------------------|
-| React                 | <span style="color:jgray;">Mastering the art of fluidity and responsiveness</span>     |
-| Go & gRPC             | <span style="color:black;">Harnessing the lightning bolts of Go and gRPC</span>        |
-| Docker                | <span style="color:jgray;">Containerizing creations for portability and scale</span>   |
+## Current Projects
 
-## Ongoing Adventures
+- **React (NEXT):** working on creating dynamic and highly advanced & reusable react components
+- **Go & gRPC:** Building high-performance distributed systems
+- **Docker:** Implementing containerization for scalable solutions
 
-- Mastering the arcane arts of Go and refining my prowess in system design.
-- Unleashing the full potential of gRPC to forge seamless connections in distributed architectures.
-- Exploring the world of containerization
+## Professional Development
+- Create custom modified and advanced components in react.
+- Advancing skills in Go and system design
+- Utilizing gRPC for efficient service communication
+- Exploring advanced containerization techniques
+
+## Achievements
+
+- **Frontend Development:** Focused on enhancing user experience, interface design and creating inter-reusable modular components.
+- **Code Wars Badge:** Recognized for problem-solving skills and coding challenges
+
+## Connect with Me
+
+- **GitHub:** [shadmeoli](https://github.com/shadmeoli)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shadmeoli)
+- **Twitter:** [Twitter Handle](https://twitter.com/shadmeoli)
+
+---
+
 
 ## **Kata Honour:**
 ![Code Wars](https://www.codewars.com/users/shadmeoli/badges/large)
