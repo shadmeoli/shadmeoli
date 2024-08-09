@@ -35,8 +35,9 @@ I am a Full Stack Developer with 4 years of experience, currently deepening my e
 ## Connect with Me
 
 - **GitHub:** [shadmeoli](https://github.com/shadmeoli)
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/shadmeoli)
+- **LinkedIn:** <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=shadrack-codes254" target="_blank">Shadrack Meoli</a>
 - **Twitter:** [Twitter Handle](https://twitter.com/shadmeoli)
+
 
 ---
 
