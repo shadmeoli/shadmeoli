@@ -1,31 +1,29 @@
-# Shadrack Meoli
+<div align="start">
 
-Full Stack Developer with 4+ years of experience | Frontend Specialist
+### Shadrack Meoli
 
-## Core Skills
+> **Software Engineer (III)**  
+> Currently working as a frontend developer,  
+> focused on creating smooth animations, ensuring fluidity in user interactions,  
+> and finding a balance between design and functionality.  
 
-- **Python:** ★★★★☆ (4 years)
-- **TypeScript/JavaScript:** ★★★★☆ (4 years)
-- **SQL:** ★★★★☆ (4 years)
-- **Go:** ★★☆☆☆ (1 year)
-- **R:** ★★★☆☆ (2 years)
+<br/>
 
-## Technical Expertise
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,go,python&theme=dark&perline=5" alt="Skills"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,nest&theme=dark&perline=5" alt="Frontend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,docker,kubernetes,kafka&theme=dark&perline=4" alt="DevOps"/>
+</div>
 
-- Frontend Development: React, Next.js
-- Backend Development: Python, Go
-- Database Management: SQL
-- DevOps: Docker, Containerization
-- Microservices: gRPC
 
-## Current Focus
-- Crafting advanced, reusable React components
-- Building high-performance distributed systems with Go & gRPC
-- Implementing scalable containerization solutions with Docker
+<div style="margin-top: 80px;">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/shadrack-codes254)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30)](https://twitter.com/shadmeoli)
+[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white&logoWidth=30)](https://www.codewars.com/users/shadmeoli)
 
-## Achievements
-- Created custom, advanced components in React
-- Recognized for problem-solving skills on Code Wars
+</div>
 
-## Connect
-[LinkedIn](https://www.linkedin.com/in/shadrack-codes254) | [Twitter](https://twitter.com/shadmeoli) | [Code Wars](https://www.codewars.com/users/shadmeoli)
+</div>
