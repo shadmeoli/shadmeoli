@@ -22,7 +22,8 @@
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/shadrack-codes254)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=30)](https://twitter.com/shadmeoli)
-[![CodeWars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white&logoWidth=30)](https://www.codewars.com/users/shadmeoli)
+<br />
+[![CodeWars](https://www.codewars.com/users/shadmeoli/badges/large)](https://www.codewars.com/users/shadmeoli)
 
 </div>
 
