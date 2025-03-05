@@ -12,7 +12,7 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=typescript,go,python&theme=dark&perline=5" alt="Skills"/>
   <br/>
-  <img src="https://skillicons.dev/icons?i=react,next,alpinejs&theme=dark&perline=5" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react,next,css,alpinejs&theme=dark&perline=5" alt="Frontend"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=postgres,docker,kafka,redis,nginx&theme=dark&perline=5" alt="DevOps"/>
 </div>
