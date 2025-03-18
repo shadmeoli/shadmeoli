@@ -3,8 +3,8 @@
 ### Shadrack Meoli
 
 > **Software Engineer (III)**  
-> Currently working as a frontend developer,  
-> focused on creating smooth animations, ensuring fluidity in user interactions,  
+> Currently working as a fullstack developer,  
+> focused on creating efficient APIs, smooth animations, ensuring fluidity in user interactions,  
 > and finding a balance between design and functionality.  
 
 <br/>
