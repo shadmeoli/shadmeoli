@@ -10,7 +10,7 @@
 <br/>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,go,python&theme=dark&perline=5" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=go,typescript,python&theme=dark&perline=5" alt="Skills"/>
   <br/>
   <img src="https://skillicons.dev/icons?i=react,next,css,alpinejs&theme=dark&perline=5" alt="Frontend"/>
   <br/>
