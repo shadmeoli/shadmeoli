@@ -1,6 +1,4 @@
-<div align="start">
-
-### Shadrack Meoli
+<img width="925" height="430" alt="banner" src="https://github.com/user-attachments/assets/13d31f8a-7a11-4920-bde1-7e29f24ae0d5" /><div align="start">
 
 > **Software Engineer (III)**  
 > Currently working as a fullstack developer,  
@@ -8,16 +6,6 @@
 > and finding a balance between design and functionality.  
 
 <br/>
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=go,typescript&theme=dark&perline=5" alt="Skills"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=react,next,alpinejs&theme=dark&perline=5" alt="Frontend"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=postgres,kafka,redis&theme=dark&perline=5" alt="DevOps"/>
-</div>
-
-
 <div style="margin-top: 80px;">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30)](https://www.linkedin.com/in/shadrack-codes254)
