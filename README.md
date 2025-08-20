@@ -1,4 +1,4 @@
-<img width="1026" height="334" alt="banner" src="https://github.com/user-attachments/assets/25ebfdfd-41dc-442d-a93b-3b505e245301" />
+<img width="1026" height="334" alt="image" src="https://github.com/user-attachments/assets/ac0e1048-962d-4e78-8553-ad82aa902be8" />
 
 > **Software Engineer (III)**  
 > Currently working as a fullstack developer,  
